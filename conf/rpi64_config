@@ -91,6 +91,7 @@ CORE_IMAGE_EXTRA_INSTALL += " \
   gstreamer1.0-plugins-base-alsa \
   gstreamer1.0-plugins-good \
   gstreamer1.0-plugins-ugly \
+  gstreamer1.0-libav \
   x264 \
   checksec \
   nikto \
